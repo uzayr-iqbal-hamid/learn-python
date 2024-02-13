@@ -1,0 +1,9 @@
+How to install Python in your Laptop/PC?
+
+Here's how:
+
+Windows:
+
+Mac:
+
+Linux:
